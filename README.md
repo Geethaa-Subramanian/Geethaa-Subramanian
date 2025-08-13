@@ -20,6 +20,7 @@
 - Mathematics Teacher @ D.A.V. School | 2021 – 2025 
       - Leveraged strong analytical and data interpretation skills to drive student performance improvements through data-driven strategies using Excel.
 
+
 ---
 ### **From Theory to Impact: My Inlighn Tech Sprint**
 **Internship Project: E-Commerce Sales Dashboard**

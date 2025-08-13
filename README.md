@@ -20,6 +20,14 @@
 - Mathematics Teacher @ D.A.V. School | 2021 – 2025 
       - Leveraged strong analytical and data interpretation skills to drive student performance improvements through data-driven strategies using Excel.
 
+---
+
+### **Validating the Journey: Certificates & Milestones**
+**Internship Experience Letter:**
+    ![Inlighn Tech Internship Experience Letter](Inlighn_Tech_Internship_page-0001.jpg "Internship Letter from Inlighn Tech")
+
+**SkilloVilla Data Analytics Course Completion Certificate:**
+    ![SkilloVilla Data Analyst Certificate](Certified_Data_Analyst-SkilloVilla_page-0001.jpg "Certified Data Analyst - SkilloVilla")
 
 ---
 ### **From Theory to Impact: My Inlighn Tech Sprint**

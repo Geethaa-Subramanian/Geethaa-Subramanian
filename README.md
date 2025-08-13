@@ -1,5 +1,8 @@
-## Hi there 👋
+## About Me 🙋‍♀️
 
+- As an M.Sc. in Mathematics graduate and former Mathematics Teacher, I bring a strong analytical foundation and problem-solving acumen to data analytics. Passionate about transforming raw data into actionable insights, I leverage data to drive informed business decisions and optimize processes.
+- My expertise includes Excel, SQL, Python, and Power BI. I have hands-on experience in data analysis, manipulation, and visualization, demonstrated through projects like Freshco Hypermarket Analysis (Excel), Airline Database Analysis (SQL), ShopNest Store Sales Analysis (Power BI), and Customer Churn Prediction (Python). My recent Data Analyst Internship at Inlighn Tech further solidified my ability to develop data-driven solutions.
+- Eager to contribute my analytical skills and grow within a dynamic data-driven environment.
 <!--
 **Geethaa-Subramanian/Geethaa-Subramanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -40,8 +40,9 @@
 
 **Internship Project: E-Commerce Sales Dashboard**
 
-    **Description:** A Power BI project that provides actionable insights into sales performance.
-    [**View Project Repository**](https://github.com/Geethaa-Subramanian/Internship_Project)
+**Description:** A Power BI project that provides actionable insights into sales performance.
+
+[**View Project Repository**](https://github.com/Geethaa-Subramanian/Internship_Project)
 
 
   ---

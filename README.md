@@ -37,53 +37,45 @@
 
 ---
 ### **From Theory to Impact: My Inlighn Tech Sprint**
+
 **Internship Project: E-Commerce Sales Dashboard**
 
-**Challenge:** Unlocking actionable insights from fragmented e-commerce sales data to guide strategic decisions.
+    **Description:** A Power BI project that provides actionable insights into sales performance.
+    [**View Project Repository**](https://github.com/Geethaa-Subramanian/Internship_Project)
 
-**Approach:** Developed a comprehensive Power BI E-Commerce Sales Dashboard during my Data Analyst Internship (June – July 2025). This involved rigorous data transformation (Power Query), robust data modeling, and precise DAX measure creation.
-
-**Outcome:** The interactive dashboard successfully highlighted top-performing products and identified low-sales regions, delivering clear, data-driven intelligence for enhanced business strategy.
 
   ---
 
 ### **My Data Playground: Projects from My Analytics Journey** 
 
-**1. Freshco Hypermarket Analysis (Excel Mastery)**
+**Data Analytics Portfolio 1 (Excel Mastery)**
 
-**The Challenge:** Decoding complex sales and delivery data to understand hypermarket performance and customer behavior.
+**Description:** An end-to-end data analysis of hypermarket sales and delivery data, demonstrating advanced Excel functionalities.
 
-**My Approach (SkilloVilla-honed):** Leveraged advanced Excel functionalities, including dynamic pivot tables and interactive dashboards, to transform raw transactional data into clear, consumable insights.
-
-**The Outcome:** Pinpointed critical delivery bottlenecks, identified top-performing products, and segmented high-value customers, empowering strategic business decisions.
+[**View Project Repository**](https://github.com/Geethaa-Subramanian/Data_portfolio_project_1)
 
 ---
-**2. Airline Database Analysis (SQL Storytelling)**
-**The Challenge:** Navigating a comprehensive airline database to extract meaningful patterns from booking, ticketing, flight, and passenger information.
 
-**My Approach (SkilloVilla-driven):** Crafted intricate SQL queries, employing complex joins, aggregations, and subqueries, to unlock hidden connections within the data.
+**Data Analytics Portfolio 2 (SQL Storytelling)**
 
-**The Outcome:**  Generated vital insights that directly contributed to optimizing passenger management, streamlining flight planning, and maximizing seat utilization.
+**Description:** A SQL-based analysis of an airline database to extract meaningful insights on passenger behavior and flight performance.
 
----
-**3. ShopNest Store Sales Analysis (Power BI Visualization)**
-
-**The Challenge:** Transforming disparate sales data into an intuitive visual narrative to highlight performance trends, delivery efficiency, and customer purchasing habits.
-
-**My Approach (SkilloVilla-inspired):** Mastered Power BI's capabilities – from Power Query data transformation and robust data modeling to crafting impactful DAX measures and interactive dashboards with slicers.
-
-**The Outcome:** Developed a dynamic Power BI dashboard that visually illuminated regional sales performance, identified product hotspots, and offered crucial insights into delivery timelines for strategic business intelligence.
+[**View Project Repository**](https://github.com/Geethaa-Subramanian/Data_portfolio_project_2)
 
 ---
-**4. Customer Churn Prediction (Python's Predictive Power)**
 
-**The Challenge:** Foreseeing customer attrition for a telecom company to enable proactive retention strategies.
+**Data Analytics Portfolio 3 (Power BI Visualization)**
 
-**My Approach (SkilloVilla-powered):** Executed a full data science pipeline in Python – including meticulous data cleaning, comprehensive Exploratory Data Analysis (EDA), and building predictive models using Logistic Regression and Random Forest.
+**Description:** A comprehensive Power BI dashboard project that visualizes store sales data to highlight performance trends and customer insights.
 
-**The Outcome:** Achieved an impressive 85% prediction accuracy, successfully identifying key churn drivers (like contract type and monthly charges), thus providing actionable intelligence for targeted customer retention campaigns.
+[**View Project Repository**](https://github.com/Geethaa-Subramanian/Data_portfolio_project_3)
 
+---
 
+**Data Analytics Portfolio 4 (Python's Predictive Power)**
 
+**Description:** A Python project that builds a machine learning model to predict and analyze customer churn with 85% accuracy.
 
+[**View Project Repository**](https://github.com/Geethaa-Subramanian/Data_portfolio_project_4)
 
+---

@@ -53,7 +53,7 @@
 
 **Description:** An end-to-end data analysis of hypermarket sales and delivery data, demonstrating advanced Excel functionalities.
 
-[**View Project Repository**](https://github.com/Geethaa-Subramanian/Data_portfolio_project_1)
+[**View Project Repository**](https://github.com/Geethaa-Subramanian/Capstone_project_1)
 
 ---
 
@@ -61,7 +61,7 @@
 
 **Description:** A SQL-based analysis of an airline database to extract meaningful insights on passenger behavior and flight performance.
 
-[**View Project Repository**](https://github.com/Geethaa-Subramanian/Data_portfolio_project_2)
+[**View Project Repository**](https://github.com/Geethaa-Subramanian/Capstone_project_2)
 
 ---
 
@@ -69,7 +69,7 @@
 
 **Description:** A comprehensive Power BI dashboard project that visualizes store sales data to highlight performance trends and customer insights.
 
-[**View Project Repository**](https://github.com/Geethaa-Subramanian/Data_portfolio_project_3)
+[**View Project Repository**](https://github.com/Geethaa-Subramanian/Capstone_project_3)
 
 ---
 
@@ -77,6 +77,6 @@
 
 **Description:** A Python project that builds a machine learning model to predict and analyze customer churn with 85% accuracy.
 
-[**View Project Repository**](https://github.com/Geethaa-Subramanian/Data_portfolio_project_4)
+[**View Project Repository**](https://github.com/Geethaa-Subramanian/Capstone_project_4)
 
 ---
